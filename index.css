@@ -1,0 +1,33 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0px;
+  background-color: #0f172a;
+}
+
+.super-league-container {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  justify-content: center;
+
+  align-items: center;
+}
+
+.heading {
+  font-family: 'Roboto';
+  font-size: 64px;
+  color: #f8fafc;
+}
+
+.rcb-img {
+  height: 150px;
+  width: 150px;
+}
+
+.csk-img {
+  height: 150px;
+  width: 150px;
+}
